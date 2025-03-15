@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arpithajain26
-- 👀 I’m interested in python
+- 👀 I’m interested in python and front end development
 - 🌱 I’m currently learning python and DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me arpithajain26
+- 📫 How to reach me arpithaammujain@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
