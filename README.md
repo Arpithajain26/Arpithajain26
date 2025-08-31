@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 # 💫 About Me:
-i am currently a 2nd year cse student
+i am currently a 3nd year cse student who is interested in web development and also interested in exploring block chain,AIML and also working on data science
 
 
 ## 🌐 Socials:
