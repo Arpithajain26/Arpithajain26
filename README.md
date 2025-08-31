@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Frontend+Developer;Python+Enthusiast;Data+Science+Explorer;AI+%26+ML+Learner" />
+  <img src="<img width="1024" height="1024" alt="freepik__the-style-is-modern-and-it-is-a-detailed-illustrat__99671" src="https://github.com/user-attachments/assets/f6d0b1a3-a444-43b2-8ea5-c686571e6c40" />
+" />
 </p>
 
 ---
