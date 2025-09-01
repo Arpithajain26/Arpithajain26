@@ -1,56 +1,38 @@
-<h1 align="center">Hi 👋, I'm Arpitha Jain</h1>
-<h3 align="center">A passionate developer from India 🚀</h3>
 
-<p align="center">
-  <img src="<img width="1024" height="1024" alt="freepik__the-style-is-modern-and-it-is-a-detailed-illustrat__99671" src="https://github.com/user-attachments/assets/f6d0b1a3-a444-43b2-8ea5-c686571e6c40" />
-" />
-</p>
+https://chatgpt.com/s/m_68b5b90d6d4c8191afbcf153dfb1ce84
 
----
+<h1 align="center">Hi 👋, I'm Arpitha Jain C B</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-## 🌟 About Me  
 
-- 🎓 I’m a **3rd year CSE student**  
-- 💻 I’m interested in **Python, Frontend Development & DSA**  
-- 🤖 Exploring **Blockchain, AI/ML, and Data Science**  
-- 🚀 Love building projects that solve real-world problems  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpithajain26&label=Profile%20views&color=0e75b6&style=flat" alt="arpithajain26" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/arpithajaincb" target="blank"><img src="https://img.shields.io/twitter/follow/arpithajaincb?logo=twitter&style=for-the-badge" alt="arpithajaincb" /></a> </p>
 
-## 🌐 Connect with Me  
+- 🔭 I’m currently working on **web developement**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Arpithajain26](https://github.com/Arpithajain26)
+
+- 💬 Ask me about **Web development,python**
+
+- 📫 How to reach me **arpithaammujain39@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iDBpUwfTI-XYnpzyk2546ZVjdRqINICI/view?usp=drive_link](https://drive.google.com/file/d/1iDBpUwfTI-XYnpzyk2546ZVjdRqINICI/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:arpithaammujain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://twitter.com/arpithajaincb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpithajaincb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/arpitha-jain-c-b-475438290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arpitha-jain-c-b-475438290" height="30" width="40" /></a>
+<a href="https://instagram.com/@arpitha._jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arpitha._jain" height="30" width="40" /></a>
+<a href="https://medium.com/@arpithajaincb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpithajaincb" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/arpithajaincb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arpithajaincb/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tech Stack  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,flask,git,github,linux" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpithajain26&show_icons=true&locale=en&layout=compact" alt="arpithajain26" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpithajain26&show_icons=true&locale=en" alt="arpithajain26" /></p>
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpithajain26&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=arpithajain26&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpithajain26&layout=compact&theme=radical" alt="languages"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-![Snake animation](https://github.com/arpithajain26/arpithajain26/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpithajain26&" alt="arpithajain26" /></p>
