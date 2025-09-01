@@ -1,3 +1,8 @@
+<!-- Custom Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Arpitha Jain C B Banner" />
+</p>
+
 <!-- Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpitha+Jain+C+B;Frontend+Developer+from+India;Open+Source+Enthusiast;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -6,11 +11,6 @@
 <!-- Main Heading with Waving Hand -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Arpitha Jain C B</h1>
 <h3 align="center">A passionate frontend developer from India 🚀</h3>
-
-<!-- GIF (upload your gif to repo as assets/gif.gif and replace the link below) -->
-<p align="center">
-  <img src="assets/yourgif.gif" width="400" alt="animated banner"/>
-</p>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpithajain26&label=Profile%20views&color=0e75b6&style=flat" alt="arpithajain26" /> </p>
