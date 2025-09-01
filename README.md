@@ -1,8 +1,7 @@
-
-https://chatgpt.com/s/m_68b5b90d6d4c8191afbcf153dfb1ce84
-
-<h1 align="center">Hi 👋, I'm Arpitha Jain C B</h1>
+ https://chatgpt.com/s/m_68b5b90d6d4c8191afbcf153dfb1ce84
+    <h1 align="center">Hi 👋, I'm Arpitha Jain C B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZzcTRoaGUzM3A5dHB5OGhiazJkdGJscDl1M3B1cWFtY3hqejR1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpithajain26&label=Profile%20views&color=0e75b6&style=flat" alt="arpithajain26" /> </p>
