@@ -1,8 +1,14 @@
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMNVLYP8Zvn84PsCBHoEkN2I6QJJN3WKgZQ&s" 
-     alt="Profile Image" 
-     style="width:100%; height:auto; display:block;" />
+<video 
+  src="ARPITHA JAIN C B.mp4"
+  autoplay
+  muted
+  loop
+  playsinline
+  style="width:100%; height:auto; display:block;">
+</video>
+
 
 <table>
   <tr>
