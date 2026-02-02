@@ -1,14 +1,6 @@
 
 
-<video 
-  controls
-  autoplay
-  muted
-  loop
-  playsinline
-  style="width:100%; height:auto; display:block;">
-  <source src="https://github.com/user-attachments/assets/8da97353-dc17-4515-81e2-23c1f9eb1f41" type="video/mp4">
-</video>
+[![Demo Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZzcTRoaGUzM3A5dHB5OGhiazJkdGJscDl1M3B1cWFtY3hqejR1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif)](https://github.com/user-attachments/assets/8da97353-dc17-4515-81e2-23c1f9eb1f41)
 
 
 <table>
