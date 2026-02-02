@@ -1,12 +1,13 @@
 
 
 <video 
-  src="ARPITHA JAIN C B.mp4"
+  controls
   autoplay
   muted
   loop
   playsinline
   style="width:100%; height:auto; display:block;">
+  <source src="https://github.com/user-attachments/assets/8da97353-dc17-4515-81e2-23c1f9eb1f41" type="video/mp4">
 </video>
 
 
